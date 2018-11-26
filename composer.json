@@ -33,7 +33,7 @@
     "php": "^7.0",
     "typo3/cms": "~8.7.14",
     "typo3-ter/realurl": "~2.3.2",
-    "tnt/themes": "~8.7.0",
+    "tnt/themes": "dev-master",
     "typo3-ter/gridelements": "~8.2.1",
     "typo3-ter/solr": "~7.5.0",
     "typo3-ter/dyncss-less": "0.7.9",
